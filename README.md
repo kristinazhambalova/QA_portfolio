@@ -100,8 +100,15 @@ P.S. Портфолио пополняется
 
 **2. Загрузи тест-кейсы и изучи их.**
 
+Тест-кейсы написаны другим тестировщиком
+
 **3. Протестируй приложение Mesto по тест-кейсам.**
 
 **4. Подведи итоги работы**
 
 ### Решение
+
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1X3Bk9FFjG6eUiCkcrIFGgmVR0KKV1N4WfnOE-fbOH-k/edit?usp=sharing)
+[Баг-репорты](https://docs.google.com/spreadsheets/d/1QJdaj5ZbpnOMHBPlNqsAA4owx1sZiA4ZEqHTghGqih4/edit?usp=sharing)
+
+Итог: Удалось найти 9 багов. Не рекомендую выпускать в релиз, т.к. имеется критический баг и не выполняется важная функция приложения.
