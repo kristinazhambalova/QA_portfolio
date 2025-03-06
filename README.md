@@ -16,7 +16,7 @@ P.S. Портфолио пополняется
 ***
 
 **0. Главная страница**
-![Главная страница]([https://praktikum.notion.site/image/https%3A%2F%2Fcode.s3.yandex.net%2Fqa%2Fschemes%2Fproject1_mesto_1.png?table=block&id=b7932a3f-8b9e-47a0-949c-7755911220e8&spaceId=daa3be6d-804a-415d-9112-8c01fba24d73&width=1530&userId=&cache=v2](https://img.notionusercontent.com/ext/https%3A%2F%2Fcode.s3.yandex.net%2Fqa%2Fschemes%2Fproject1_mesto_1.png/size/w=1530?exp=1741291578&sig=sRa7MYXrToj3bbicuwZnP0dAVdlzjUwlZMRdrvKdFPU))
+![Главная страница]([/image/https%3A%2F%2Fcode.s3.yandex.net%2Fqa%2Fschemes%2Fproject1_mesto_1.png?table=block&id=b7932a3f-8b9e-47a0-949c-7755911220e8&spaceId=daa3be6d-804a-415d-9112-8c01fba24d73&width=2000&userId=&cache=v2)
 
 
 
