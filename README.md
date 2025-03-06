@@ -16,6 +16,7 @@ P.S. Портфолио пополняется
 ***
 
 **0. Главная страница**
+
 ![Главная страница](https://code.s3.yandex.net/qa/schemes/project1_mesto_1.png)
 
 
